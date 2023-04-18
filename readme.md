@@ -1,9 +1,4 @@
-
-
-[![Status](https://api.netlify.com/api/v1/badges/d2988db9-2b31-44b8-8174-2558da78c846/deploy-status)](https://app.netlify.com/sites/webdev-jeopardy/deploys)
-
-
-## [Live Deployment on Azure, Click to Play](https://webdev-jeopardy.netlify.app/)
+## [Live Deployment on Azure, Click to Play](https://jeopardy-game.azurewebsites.net)
 
 *Get Started:*
 
@@ -17,14 +12,11 @@ Using git from the command line:
 Using Docker via [Dockerhub](https://hub.docker.com/repository/docker/renatocamara/jeopardy-game):
 
 1. `docker run -d -p 80:80 jeopardy-game` 
-2. `docker port jeopardy`
-3. Visit at the ports assigned!
+2. Open the browser and type `http://localhost`
 
 ### Web Dev Jeopardy Game by Renato Camara - v1.0
 
-
 ### Current Game:
-
 
 ![](readme-assets/mobilescreenshot-jeopardy.png)
 
