@@ -6,7 +6,7 @@ Using git from the command line:
 
  1. Clone Repository
  2. Turn on your audio (Optional... but highly reccomended!)
- 3. Open public/index.html with a server of your choice in your web browser `http-server public/`
+ 3. Open public/index.html with a server of your choice in your web browser
  4. Enjoy
 
 Using Docker via [Dockerhub](https://hub.docker.com/repository/docker/renatocamara/jeopardy-game):
@@ -14,11 +14,9 @@ Using Docker via [Dockerhub](https://hub.docker.com/repository/docker/renatocama
 1. `docker run -d -p 80:80 jeopardy-game` 
 2. Open the browser and type `http://localhost`
 
-### Web Dev Jeopardy Game by Renato Camara - v1.0
+### Jeopardy Game by Renato Camara - v1.0
 
 ### Current Game:
-
-![](readme-assets/mobilescreenshot-jeopardy.png)
 
 This game started as one of my first ever web projects and was my first application of HTML, CSS, Javsacript and JQuery. This was my beginning. 
 
